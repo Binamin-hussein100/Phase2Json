@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Em-minds/Minds_JSON/issues"
   },
-  "homepage": "https://github.com/Em-minds/Minds_JSON#readme"
+  "homepage": "https://github.com/Em-minds/Minds_JSON#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
